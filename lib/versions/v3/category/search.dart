@@ -132,6 +132,7 @@ class Search {
       'include_adult=$includeAdult',
       'region=$region',
       'page=$page',
+      'language='$language,
     ];
     //this parameters may contains null
     //year will not be added unless provided
